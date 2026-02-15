@@ -1,0 +1,14 @@
+name: flutter_smart_retry_example
+description: Example app for flutter_smart_retry package
+version: 1.0.0+1
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter_smart_retry:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^3.0.0

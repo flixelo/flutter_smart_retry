@@ -1,0 +1,21 @@
+name: flutter_smart_retry
+description: Advanced retry logic for Flutter with exponential backoff, jitter, circuit breaker, and custom retry policies.
+version: 1.0.0
+homepage: https://github.com/flixelo/flutter_smart_retry
+repository: https://github.com/flixelo/flutter_smart_retry
+issue_tracker: https://github.com/flixelo/flutter_smart_retry/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
