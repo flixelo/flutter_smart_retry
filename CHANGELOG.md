@@ -2,6 +2,12 @@
 
 All notable changes to flutter_smart_retry will be documented in this file.
 
+## [1.0.1] - 2026-02-15
+
+### Changed
+- Fixed Git author information in commits
+- Updated repository metadata
+
 ## [1.0.0] - 2026-02-15
 
 ### Added
